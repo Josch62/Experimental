@@ -1,3 +1,7 @@
+@settings {
+  font-size: 30;
+}
+
 # Public files and archives for various purposes....
 # Apply_drivers_at_Mach_speed.zip - Scripts used in https://ccmexec.com/2020/03/distribute-drivers-at-mach-speed/
 
